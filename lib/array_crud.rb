@@ -7,18 +7,18 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  my_puppies ("Gaia", "Luna") ["estrellita"]
+  my_puppies ["Gaia", "Luna", "estrellita"]
   my_puppies<< "thor"
  
 end
 
 def add_element_to_start_of_array(array, element)
-   my_puppies ("Gaia", "Luna") ["estrellita"]
-  my_puppies.push "thor"
+   my_puppies ["Gaia", "Luna","estrellita"]
+  my_puppies.push ("thor")
 end
 
 def remove_element_from_end_of_array(array)
-  
+  puppy 
 end
 
 def remove_element_from_start_of_array(array)
