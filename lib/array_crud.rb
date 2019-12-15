@@ -41,5 +41,5 @@ end
 
 def retrieve_last_element_from_array(array)
   puppies = ["Luna", "Whiskey"]
-  whiskey =-1
+ puppies =-1
 end
