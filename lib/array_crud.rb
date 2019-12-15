@@ -36,7 +36,7 @@ end
 
 def retrieve_first_element_from_array(array)
   puppy = ["Gaia"]
-  puppy.
+  puppy.index_number [0]
 end
 
 def retrieve_last_element_from_array(array)
