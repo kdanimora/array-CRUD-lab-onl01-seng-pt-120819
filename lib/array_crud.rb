@@ -8,7 +8,7 @@ end
 
 def add_element_to_end_of_array(array, element)
   my_puppies ("Gaia", "Luna") ["estrellita"]
-  my_puppies=
+  my_puppies<< "thor"
  
 end
 
