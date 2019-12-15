@@ -14,7 +14,7 @@ end
 
 def add_element_to_start_of_array(array, element)
    my_puppies ("Gaia", "Luna") ["estrellita"]
-  my_puppies<< "thor"
+  my_puppies.push "thor"
 end
 
 def remove_element_from_end_of_array(array)
