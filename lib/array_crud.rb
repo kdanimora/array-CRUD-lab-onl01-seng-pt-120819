@@ -29,6 +29,8 @@ end
 
 def retrieve_element_from_index(array, index_number)
   puppies = ["Luna", "Whiskey"]
+  puppies=[1]
+  puppies=[0]
   
 end
 
